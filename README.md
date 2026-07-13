@@ -1,2 +1,0 @@
-# picon
-by Khaled Ali
